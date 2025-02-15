@@ -104,10 +104,6 @@ airflow webserver
 ```sh
 airflow dags trigger my_dynamic_dag
 ```
-**Expected Output:**
-```
-File uploaded successfully and indexed in Elasticsearch.
-```
 
 ### **Checking DAG Logs**
 ```sh
